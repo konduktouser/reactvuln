@@ -5,7 +5,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "jquery": "^3.2.1",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "pubsub-js": "^1.5.7",
     "react-router": "^3.2.0",
     "react-skylight": "^0.5.0",
